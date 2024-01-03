@@ -4,10 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=transparent)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonix64&repo=LeonixPageIonic)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Leonix64)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Habilidades Técnicas
 
 ### Desarrollo Web
