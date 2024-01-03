@@ -10,23 +10,25 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 ## Habilidades Técnicas
 
 ### Desarrollo Web
-- (https://img.shields.io/badge/-HTML-orange)
-- ![CSS](https://img.shields.io/badge/-CSS-blue)
-- JavaScript ![](https://img.shields.io/badge/-JavaScript-yellow)
-- PHP ![PHP](https://img.shields.io/badge/-PHP-purple)
-- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+- <img src="https://www.example.com/html-icon.png" alt="HTML" width="20"/> HTML
+- <img src="https://www.example.com/css-icon.png" alt="CSS" width="20"/> CSS
+- <img src="https://www.example.com/javascript-icon.png" alt="JavaScript" width="20"/> JavaScript
+- <img src="https://www.example.com/php-icon.png" alt="PHP" width="20"/> PHP
+- <img src="https://www.example.com/mysql-icon.png" alt="MySQL" width="20"/> MySQL
+- <img src="https://www.example.com/laravel-icon.png" alt="Laravel" width="20"/> Laravel
+- <img src="https://www.example.com/angular-icon.png" alt="Angular" width="20"/> Angular
 
 ### Desarrollo Móvil
-- Java ![Java](https://img.shields.io/badge/-Java-red)
-- Ionic ![Ionic](https://img.shields.io/badge/-Ionic-blue)
-- Flutter ![Flutter](https://img.shields.io/badge/-Flutter-blue)
+- <img src="https://www.example.com/java-icon.png" alt="Java" width="20"/> Java
+- <img src="https://www.example.com/ionic-icon.png" alt="Ionic" width="20"/> Ionic
+- <img src="https://www.example.com/flutter-icon.png" alt="Flutter" width="20"/> Flutter
 
 ## Frameworks
 
-- Laravel ![Laravel](https://img.shields.io/badge/-Laravel-red)
-- Angular ![Angular](https://img.shields.io/badge/-Angular-red)
-- Ionic ![Ionic](https://img.shields.io/badge/-Ionic-blue)
-- Flutter ![Flutter](https://img.shields.io/badge/-Flutter-blue)
+- <img src="https://www.example.com/laravel-icon.png" alt="Laravel" width="20"/> Laravel
+- <img src="https://www.example.com/angular-icon.png" alt="Angular" width="20"/> Angular
+- <img src="https://www.example.com/ionic-icon.png" alt="Ionic" width="20"/> Ionic
+- <img src="https://www.example.com/flutter-icon.png" alt="Flutter" width="20"/> Flutter
 
 <!---
 Leonix64/Leonix64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
