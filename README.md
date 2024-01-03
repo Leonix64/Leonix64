@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 ### Desarrollo Web
 - (https://img.shields.io/badge/-HTML-orange)
 - ![CSS](https://img.shields.io/badge/-CSS-blue)
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- JavaScript ![](https://img.shields.io/badge/-JavaScript-yellow)
 - PHP ![PHP](https://img.shields.io/badge/-PHP-purple)
 - MySQL ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 
