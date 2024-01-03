@@ -3,24 +3,25 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 
+
+
 Welcome to my GitHub profile! I'm a passionate developer with a diverse skill set in web and mobile development. Here are some of my technical skills and frameworks:
 
 ## Habilidades Técnicas
 
 ### Desarrollo Web
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-- Laravel
-- Angular
+- ![HTML](https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png) HTML
+- ![CSS](url_a_la_imagen_css) CSS
+- ![JavaScript](url_a_la_imagen_js) JavaScript
+- ![PHP](url_a_la_imagen_php) PHP
+- ![MySQL](url_a_la_imagen_mysql) MySQL
+- ![Laravel](url_a_la_imagen_laravel) Laravel
+- ![Angular](url_a_la_imagen_angular) Angular
 
 ### Desarrollo Móvil
-- Java
-- Ionic
-- Flutter
+- ![Java](url_a_la_imagen_java) Java
+- ![Ionic](url_a_la_imagen_ionic) Ionic
+- ![Flutter](url_a_la_imagen_flutter) Flutter
 
 ## Frameworks
 
