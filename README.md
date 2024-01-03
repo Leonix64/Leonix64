@@ -10,13 +10,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 ## Habilidades Técnicas
 
 ### Desarrollo Web
-- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" style="max-width: 100%;"/> HTML
-- <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" alt="CSS" style="max-width: 100%;"/> CSS
-- <img src="https://www.example.com/javascript-icon.png" alt="JavaScript" width="20"/> JavaScript
-- <img src="https://www.example.com/php-icon.png" alt="PHP" width="20"/> PHP
-- <img src="https://www.example.com/mysql-icon.png" alt="MySQL" width="20"/> MySQL
-- <img src="https://www.example.com/laravel-icon.png" alt="Laravel" width="20"/> Laravel
-- <img src="https://www.example.com/angular-icon.png" alt="Angular" width="20"/> Angular
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; white-space: nowrap;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="20"/>
+</div>
+
 
 ### Desarrollo Móvil
 - <img src="https://www.example.com/java-icon.png" alt="Java" width="20"/> Java
