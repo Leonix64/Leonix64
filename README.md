@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 ## Habilidades Técnicas
 
 ### Desarrollo Web
-- ![HTML](https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png) HTML
+- (https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png) HTML
 - ![CSS](url_a_la_imagen_css) CSS
 - ![JavaScript](url_a_la_imagen_js) JavaScript
 - ![PHP](url_a_la_imagen_php) PHP
