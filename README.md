@@ -10,25 +10,23 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 ## Habilidades Técnicas
 
 ### Desarrollo Web
-- (https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png) HTML
-- ![CSS](url_a_la_imagen_css) CSS
-- ![JavaScript](url_a_la_imagen_js) JavaScript
-- ![PHP](url_a_la_imagen_php) PHP
-- ![MySQL](url_a_la_imagen_mysql) MySQL
-- ![Laravel](url_a_la_imagen_laravel) Laravel
-- ![Angular](url_a_la_imagen_angular) Angular
+- HTML ![HTML](https://img.shields.io/badge/-HTML-orange)
+- CSS ![CSS](https://img.shields.io/badge/-CSS-blue)
+- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- PHP ![PHP](https://img.shields.io/badge/-PHP-purple)
+- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 
 ### Desarrollo Móvil
-- ![Java](url_a_la_imagen_java) Java
-- ![Ionic](url_a_la_imagen_ionic) Ionic
-- ![Flutter](url_a_la_imagen_flutter) Flutter
+- Java ![Java](https://img.shields.io/badge/-Java-red)
+- Ionic ![Ionic](https://img.shields.io/badge/-Ionic-blue)
+- Flutter ![Flutter](https://img.shields.io/badge/-Flutter-blue)
 
 ## Frameworks
 
-- Laravel
-- Angular
-- Ionic
-- Flutter
+- Laravel ![Laravel](https://img.shields.io/badge/-Laravel-red)
+- Angular ![Angular](https://img.shields.io/badge/-Angular-red)
+- Ionic ![Ionic](https://img.shields.io/badge/-Ionic-blue)
+- Flutter ![Flutter](https://img.shields.io/badge/-Flutter-blue)
 
 <!---
 Leonix64/Leonix64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
