@@ -1,3 +1,5 @@
+![Top Language Badge](https://img.shields.io/github/languages/top/Leonix64/LeonixPageIonic)
+
 ## Habilidades Técnicas
 
 ### Desarrollo Web
