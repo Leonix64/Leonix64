@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 ## Habilidades Técnicas
 
 ### Desarrollo Web
-- HTML ![HTML](https://img.shields.io/badge/-HTML-orange)
+- (https://img.shields.io/badge/-HTML-orange)
 - CSS ![CSS](https://img.shields.io/badge/-CSS-blue)
 - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 - PHP ![PHP](https://img.shields.io/badge/-PHP-purple)
