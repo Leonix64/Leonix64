@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 ## Habilidades Técnicas
 
 ### Desarrollo Web
-- <img src="[https://www.example.com/html-icon.png](https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png)" alt="HTML" width="20"/> HTML
+- <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML" width="20"/> HTML
 - <img src="https://www.example.com/css-icon.png" alt="CSS" width="20"/> CSS
 - <img src="https://www.example.com/javascript-icon.png" alt="JavaScript" width="20"/> JavaScript
 - <img src="https://www.example.com/php-icon.png" alt="PHP" width="20"/> PHP
