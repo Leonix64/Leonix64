@@ -1,8 +1,18 @@
-![Top Language Badge](https://img.shields.io/github/languages/top/Leonix64/LeonixBack)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# Estadísticas GitHub de Leonix64
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=transparent)
+### Lenguaje Principal
+![Lenguaje Principal](https://img.shields.io/github/languages/top/Leonix64/LeonixBack)
+
+### Lenguajes Principales en Repositorios
+[![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Estadísticas Generales
+![Estadísticas de GitHub de Leonix64](https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=transparent)
+
+</div>
+
 
 ## Habilidades Técnicas
 
