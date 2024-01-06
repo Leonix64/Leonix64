@@ -1,6 +1,6 @@
 <div align="center">
 
-# Estadísticas GitHub de Leonix64
+# Leonix64
 
 ### Lenguaje Principal
 ![Lenguaje Principal](https://img.shields.io/github/languages/top/Leonix64/LeonixBack)
