@@ -3,7 +3,7 @@
 # Leonix64
 
 ### Lenguaje Principal
-![Lenguaje Principal](https://img.shields.io/github/languages/top/Leonix64/LeonixBack)
+![Lenguaje Principal](https://img.shields.io/github/languages/top/Leonix64/LeonixPageIonic)
 
 ### Lenguajes Principales en Repositorios
 [![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
