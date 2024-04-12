@@ -2,6 +2,8 @@
   
 # Leonix64
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonix64)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Lenguaje Principal
 ![Lenguaje Principal](https://img.shields.io/github/languages/top/Leonix64/LeonixPageIonic)
 
