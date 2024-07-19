@@ -1,25 +1,16 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x300.png?text=Leonix64" alt="Banner de Leonix64" width="100%" />
-
-  # Leonix64
-
-  ### Lenguaje Principal
-  ![Lenguaje Principal](https://img.shields.io/github/languages/top/Leonix64/LeonixPageIonic)
   
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <div>
-      <h3>Lenguajes Principales en Repositorios</h3>
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact" alt="Lenguajes Principales">
-      </a>
-    </div>
-    <div>
-      <h3>Estadísticas Generales</h3>
-      <a href="https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical">
-        <img src="https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Leonix64">
-      </a>
-    </div>
-  </div>
+# Leonix64
+
+### Lenguaje Principal
+![Lenguaje Principal](https://img.shields.io/github/languages/top/Leonix64/LeonixPageIonic)
+
+### Lenguajes Principales en Repositorios
+[![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Estadísticas Generales
+![Estadísticas de GitHub de Leonix64](https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical)
+
 </div>
 
 ## Habilidades Técnicas
@@ -52,5 +43,3 @@ Además, tengo experiencia en el uso de los siguientes frameworks:
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="70"/>
 </div>
-
-¡Estoy comprometido/a a seguir aprendiendo y mejorando mis habilidades técnicas!
