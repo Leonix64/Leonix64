@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/94/b9/c6/94b9c64e1c5d912bcfd3db9c6f988b15.gif" alt="Banner de Leonix64" width="100%"/>
+  <img src="https://i.pinimg.com/originals/94/b9/c6/94b9c64e1c5d912bcfd3db9c6f988b15.gif" alt="Banner de Leonix64" width="100%" height="300" style="object-fit: cover;"/>
 </div>
 
 ###
@@ -15,9 +15,9 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/71/07/2c/71072c5733a45d440009a0ad944a4c5a.gif" />
+<img align="right" height="200" src="https://media1.tenor.com/m/fS2VWhhKhU4AAAAC/rei-ayanami-rei.gif"/>
 
-### Desarrollo Web
+### Desarrollo 
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50"/>
