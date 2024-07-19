@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <img src="https://64.media.tumblr.com/728cf21657c5e41c4806f3667e735dc3/7bdb6c2b53dbcbea-f8/s1280x1920/5dd09ca5e7581bd497a70418c40f5a62bf18caa8.gifv" alt="Banner de Leonix64" width="100%"/>
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact" height="150" alt="languages graph" />
 </div>
