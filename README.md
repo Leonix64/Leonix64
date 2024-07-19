@@ -6,18 +6,20 @@
   ### Lenguaje Principal
   ![Lenguaje Principal](https://img.shields.io/github/languages/top/Leonix64/LeonixPageIonic)
   
-  <table>
-    <tr>
-      <td>
-        ### Lenguajes Principales en Repositorios
-        [![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-      </td>
-      <td>
-        ### Estadísticas Generales
-        ![Estadísticas de GitHub de Leonix64](https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical)
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <div>
+      <h3>Lenguajes Principales en Repositorios</h3>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact" alt="Lenguajes Principales">
+      </a>
+    </div>
+    <div>
+      <h3>Estadísticas Generales</h3>
+      <a href="https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical">
+        <img src="https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Leonix64">
+      </a>
+    </div>
+  </div>
 </div>
 
 ## Habilidades Técnicas
