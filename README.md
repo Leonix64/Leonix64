@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/728cf21657c5e41c4806f3667e735dc3/7bdb6c2b53dbcbea-f8/s1280x1920/5dd09ca5e7581bd497a70418c40f5a62bf18caa8.gifv" alt="Banner de Leonix64" width="100%"/>
+  <img src="https://64.media.tumblr.com/728cf21657c5e41c4806f3667e735dc3/7bdb6c2b53dbcbea-f8/s1280x1920/5dd09ca5e7581bd497a70418c40f5a62bf18caa8.gifv" alt="Banner de Leonix64" width="100%" height="100"/>
 </div>
 
 ###
