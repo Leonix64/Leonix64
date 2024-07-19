@@ -5,12 +5,19 @@
 
   ### Lenguaje Principal
   ![Lenguaje Principal](https://img.shields.io/github/languages/top/Leonix64/LeonixPageIonic)
-
-  ### Lenguajes Principales en Repositorios
-  [![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  ### Estadísticas Generales
-  ![Estadísticas de GitHub de Leonix64](https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical)
+  
+  <table>
+    <tr>
+      <td align="center">
+        ### Lenguajes Principales en Repositorios
+        [![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+      </td>
+      <td align="center">
+        ### Estadísticas Generales
+        ![Estadísticas de GitHub de Leonix64](https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical)
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## Habilidades Técnicas
@@ -29,7 +36,7 @@ Utilizo diversas tecnologías para el desarrollo web, incluyendo:
 
 ### Desarrollo Móvil
 En el ámbito del desarrollo móvil, me especializo en:
-  
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" alt="Ionic" width="70"/>
