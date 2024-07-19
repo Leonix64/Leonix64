@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/94/b9/c6/94b9c64e1c5d912bcfd3db9c6f988b15.gif" alt="Banner de Leonix64" width="100%"/>
+  <img src="https://i.pinimg.com/originals/94/b9/c6/94b9c64e1c5d912bcfd3db9c6f988b15.gif" alt="Banner de Leonix64" style="width: 100%; max-height: 300px; object-fit: contain;"/>
 </div>
 
 ###
