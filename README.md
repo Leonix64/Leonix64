@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+![Banner](https://via.placeholder.com/800x200.png?text=Leonix64)
+
 # Leonix64
 
 ### Lenguaje Principal
@@ -36,7 +38,7 @@ En el ámbito del desarrollo móvil, me especializo en:
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="70"/>
 </div>
 
-## Frameworks
+### Frameworks
 Además, tengo experiencia en el uso de los siguientes frameworks:
 
 <div align="center">
