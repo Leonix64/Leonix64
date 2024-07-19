@@ -1,16 +1,10 @@
-<div align="center">
-  
-# Leonix64
 
 ### Lenguaje Principal
 ![Lenguaje Principal](https://img.shields.io/github/languages/top/Leonix64/LeonixPageIonic)
 
-### Lenguajes Principales en Repositorios
-[![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Estadísticas Generales
-![Estadísticas de GitHub de Leonix64](https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact" height="150" alt="languages graph" />
 </div>
 
 ## Habilidades Técnicas
