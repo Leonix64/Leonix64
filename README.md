@@ -27,8 +27,11 @@ Utilizo diversas tecnologías para el desarrollo web, incluyendo:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70"/>
 </div>
 
-### Desarrollo Móvil
-En el ámbito del desarrollo móvil, me especializo en:
+<div aling="center">
+  ### Desarrollo Móvil
+  En el ámbito del desarrollo móvil, me especializo en:
+</div>
+
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="70"/>
