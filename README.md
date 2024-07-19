@@ -8,11 +8,11 @@
   
   <table>
     <tr>
-      <td align="center">
+      <td>
         ### Lenguajes Principales en Repositorios
         [![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
       </td>
-      <td align="center">
+      <td>
         ### Estadísticas Generales
         ![Estadísticas de GitHub de Leonix64](https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical)
       </td>
