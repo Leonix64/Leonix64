@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/71/07/2c/71072c5733a45d440009a0ad944a4c5a.gif" />
+<img align="right" height="200" src="https://i.pinimg.com/originals/71/07/2c/71072c5733a45d440009a0ad944a4c5a.gif" />
 
 ### Desarrollo Web
 
