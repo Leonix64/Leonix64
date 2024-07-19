@@ -1,4 +1,4 @@
-<h2 align="left">Hi! Mi nombre es Angel</h2>
+<h2 align="center">Hi! Mi nombre es Angel</h2>
 
 ###
 
@@ -28,14 +28,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"/>
 </div>
 
-### Desarrollo Móvil
-
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" alt="Ionic" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40"/>
 </div>
-
-### Frameworks
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="30"/>
