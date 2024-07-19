@@ -1,18 +1,16 @@
 <div align="center">
+  <img src="https://via.placeholder.com/1000x300.png?text=Leonix64" alt="Banner de Leonix64" width="100%" />
 
-![Banner](https://via.placeholder.com/800x200.png?text=Leonix64)
+  # Leonix64
 
-# Leonix64
+  ### Lenguaje Principal
+  ![Lenguaje Principal](https://img.shields.io/github/languages/top/Leonix64/LeonixPageIonic)
 
-### Lenguaje Principal
-![Lenguaje Principal](https://img.shields.io/github/languages/top/Leonix64/LeonixPageIonic)
+  ### Lenguajes Principales en Repositorios
+  [![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Lenguajes Principales en Repositorios
-[![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Estadísticas Generales
-![Estadísticas de GitHub de Leonix64](https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical)
-
+  ### Estadísticas Generales
+  ![Estadísticas de GitHub de Leonix64](https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical)
 </div>
 
 ## Habilidades Técnicas
@@ -38,7 +36,7 @@ En el ámbito del desarrollo móvil, me especializo en:
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="70"/>
 </div>
 
-### Frameworks
+## Frameworks
 Además, tengo experiencia en el uso de los siguientes frameworks:
 
 <div align="center">
