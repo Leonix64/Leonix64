@@ -1,11 +1,17 @@
+<h2 align="left">Hi! Mi nombre es Angel</h2>
 
-### Lenguaje Principal
-![Lenguaje Principal](https://img.shields.io/github/languages/top/Leonix64/LeonixPageIonic)
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leonix64&show_icons=true&theme=radical" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonix64&layout=compact" height="150" alt="languages graph" />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/71/07/2c/71072c5733a45d440009a0ad944a4c5a.gif" />
+
+###
 
 ## Habilidades Técnicas
 
