@@ -19,7 +19,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
@@ -28,11 +28,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"/>
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" alt="Ionic" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40"/>
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="30"/>
 </div>
+
+###
+
+<img align="left" height="200" src="https://media1.tenor.com/m/fS2VWhhKhU4AAAAC/rei-ayanami-rei.gif"/>
+
+###
