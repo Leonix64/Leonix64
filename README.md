@@ -22,6 +22,10 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </div>
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/fS2VWhhKhU4AAAAC/rei-ayanami-rei.gif" width="200" height="200"/>
+</div>
+
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <div align="center">
@@ -33,8 +37,4 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Leonix64&theme=darkhub&no-frame=true&margin-w=15" alt="trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/fS2VWhhKhU4AAAAC/rei-ayanami-rei.gif" width="200" height="200"/>
 </div>
