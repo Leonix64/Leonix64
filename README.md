@@ -38,9 +38,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Leonix64&theme=darkhub&no-frame=true&margin-w=15" alt="trophies"/>
 </div>
-
-<h2 align="center">🏅 Logros de GitHub</h2>
-
-<div align="center">
-  <img src="https://github-profile-achievement-banner.vercel.app/?user=Leonix64" alt="Logros de GitHub"/>
-</div>
