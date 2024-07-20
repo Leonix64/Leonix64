@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif" alt="Banner de Leonix64" width="100%"/>
-</div>
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hola, soy Angel
@@ -9,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/fS2VWhhKhU4AAAAC/rei-ayanami-rei.gif" width="200" height="200"/>
+  <img src="https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif" alt="Banner de Leonix64" width="100%"/>
 </div>
 
 <h2 align="center">💻 Tecnologías & Herramientas</h2>
@@ -37,4 +33,8 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Leonix64&theme=darkhub&no-frame=true&margin-w=15" alt="trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/fS2VWhhKhU4AAAAC/rei-ayanami-rei.gif" width="200" height="200"/>
 </div>
