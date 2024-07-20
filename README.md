@@ -16,6 +16,7 @@
 ###
 
 <img align="right" height="200" src="https://media1.tenor.com/m/fS2VWhhKhU4AAAAC/rei-ayanami-rei.gif"/>
+<img align="left" height="200" src="https://media1.tenor.com/m/fS2VWhhKhU4AAAAC/rei-ayanami-rei.gif"/>
 
 ###
 
@@ -36,9 +37,3 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="30"/>
 </div>
-
-###
-
-<img align="left" height="200" src="https://media1.tenor.com/m/fS2VWhhKhU4AAAAC/rei-ayanami-rei.gif"/>
-
-###
