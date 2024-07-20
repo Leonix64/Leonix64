@@ -39,11 +39,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Leonix64&theme=darkhub&no-frame=true&margin-w=15" alt="trophies"/>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leonix64&color=blueviolet" alt="Contador de visitas del perfil"/>
-</p>
-
-<details>
-  <summary>📊 Gráfico de Actividad</summary>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Leonix64&theme=github"/>
-</details>
