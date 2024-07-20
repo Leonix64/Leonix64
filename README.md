@@ -39,3 +39,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Leonix64&theme=darkhub&no-frame=true&margin-w=15" alt="trophies"/>
 </div>
 
+<h2 align="center">🎵 Escuchando ahora</h2>
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Leonix&cover_image=true&theme=novatorem" alt="Spotify"/>
+</div>
