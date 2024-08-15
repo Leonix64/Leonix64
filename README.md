@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Holii
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fdc3a326-5267-4e3b-96c4-136912b3c6fe/dg8ebft-7ba2e0f2-3956-408a-a9f9-9ecdcb02cc00.gif" width="30px"/>
 </h1>
 
 <div align="center">
