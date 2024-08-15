@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Holii
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fdc3a326-5267-4e3b-96c4-136912b3c6fe/dg8ebft-7ba2e0f2-3956-408a-a9f9-9ecdcb02cc00.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif" alt="Banner de Leonix64" width="100%"/>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fdc3a326-5267-4e3b-96c4-136912b3c6fe/dg8ebft-7ba2e0f2-3956-408a-a9f9-9ecdcb02cc00.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkYzNhMzI2LTUyNjctNGUzYi05NmM0LTEzNjkxMmIzYzZmZVwvZGc4ZWJmdC03YmEyZTBmMi0zOTU2LTQwOGEtYTlmOS05ZWNkY2IwMmNjMDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QeXa9oPpqTYJIJQlSH23roWhM04xaATVCBt7VWZFwgg" alt="Banner de Leonix64" width="100%"/>
 </div>
 
 <h2 align="center">💻 Tecnologías & Herramientas</h2>
