@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fdc3a326-5267-4e3b-96c4-136912b3c6fe/dg8ebft-7ba2e0f2-3956-408a-a9f9-9ecdcb02cc00.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkYzNhMzI2LTUyNjctNGUzYi05NmM0LTEzNjkxMmIzYzZmZVwvZGc4ZWJmdC03YmEyZTBmMi0zOTU2LTQwOGEtYTlmOS05ZWNkY2IwMmNjMDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QeXa9oPpqTYJIJQlSH23roWhM04xaATVCBt7VWZFwgg" alt="Banner de Leonix64" width="100%"/>
+  <img src="https://64.media.tumblr.com/fd970fa64ea36db438022444d9e1ba43/tumblr_p4x6ed3lQP1u7gnm9o1_500.gifv" alt="Banner de Leonix64" width="100%"/>
 </div>
 
 <h2 align="center">💻 Tecnologías & Herramientas</h2>
